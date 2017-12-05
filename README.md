@@ -7,3 +7,4 @@ Choose to create a new project from an Existing Directory
 Select the appropriate directory and then click Create Project
 A new project will be created for the directory and RStudio's version control features will then be available for that directory.
 
+Changed on the desktop
